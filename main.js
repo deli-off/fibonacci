@@ -1,4 +1,3 @@
-
 let n = +prompt('any number');
 
 let series = [0, 1];
